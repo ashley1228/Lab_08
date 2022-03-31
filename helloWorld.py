@@ -1,4 +1,5 @@
-print ("Hello World. My name is Ashley Rigano and I love python!")
+userName = input("Hello! Please enter your name!")
+print("Hello", userName, "nice to meet you")
 
 #userName = input("Hello! Please enter your facebook username! ")
 #userPassword = input("Hello! Please enter your facebook password! ")
